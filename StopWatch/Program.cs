@@ -56,7 +56,7 @@ namespace StopWatch
                 Console.WriteLine(currentTime);
                 Thread.Sleep(1000);
             }
-            Console.WriteLine("StopWatch Finalizdo.");
+            Console.WriteLine("StopWatch Finalizado.");
             Thread.Sleep(2500);
             Menu();
         }
